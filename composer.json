@@ -1,11 +1,11 @@
 {
-  "name": "dblock/opensearch-php-client-demo",
+  "name": "danzajac/opensearch-php-client-demo",
   "description": "OpenSearch PHP client demo with Sigv4 signing.",
   "type": "project",
   "authors": [
     {
-      "name": "dblock",
-      "email": "dblock@amazon.com"
+      "name": "danzajac",
+      "email": "danzajac10@gmail.com"
     }
   ],
   "scripts": {
